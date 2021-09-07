@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am [Shinoa](https://shinoasama.github.io/)
+
+![Shinoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinoaSama&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **ShinoaSama/ShinoaSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
